@@ -1,0 +1,13 @@
+title: "Dynamis GTR"
+description: "AI / Projects / Notes"
+theme: jekyll-theme-cayman
+
+# 站点设置（用户站点一般不用 baseurl）
+url: "https://dynamisg210.github.io"
+baseurl: ""
+
+# 博客链接更干净
+permalink: /blog/:year/:month/:day/:title/
+
+# 时区（避免文章日期显示错）
+timezone: Asia/Beijing
