@@ -11,3 +11,6 @@ title: Home
 
 ## Blog
 👉 去看我的博客：[/blog/](/blog/)
+
+## Projects
+👍 去看我的项目：[/projects/](/projects/)
