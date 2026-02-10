@@ -15,3 +15,8 @@ permalink: /blog/:year/:month/:day/:title/
 timezone: Asia/Taipei
 
 future: true
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
