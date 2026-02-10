@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Home
+
+![Logo]({{ "/assets/img/logo.png" | relative_url }})
+
 ---
 
 # 你好，我是 GTR
